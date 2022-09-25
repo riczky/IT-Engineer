@@ -1,0 +1,42 @@
+#Remote Router SecureCRT 8.1
+
+- Hubungkan kabel console (Console to USB)
+- Device Manager 
+- Cek Ports (COM3)
+
+- Buka Secure CRT
+Quick Connect (Secure CRT)
+Serial 
+COM 3
+9600
+
+#Login Router
+Username: admin
+Password: admin
+
+#Config Router Upgrade OS
+pnpa service discovery stop
+
+-Hubungkan Flashdisk(ISO)
+
+copy usb0:c8000be-universalk9.17.04.02.SPA.bin bootflash: (Menggunakan flash disk)
+
+request platform software sdwan software install bootflash:/c8000be-universalk9.17.04.02.SPA.bin
+request platform software sdwan software activate 17.04.02.0.2620
+request platform software sdwan software set-default 17.04.02.0.2620
+request platform software sdwan software upgrade-confirm
+
+- Config berdasarkan Template Contoh(DC-ALADIN-LA-SDWAN)
+
+- Selesai Config Log Session
+File ->Log Session -> Save  Hostname (Serial Number)
+Lakukan Log:
+show run
+show sdwan run
+show version
+show sdwan certificate serial
+-Un Log 
+-Finish
+
+- Label Garansi, Foto bagian atas, bawah, depan, depan serial number, kelengkapan
+- Packing

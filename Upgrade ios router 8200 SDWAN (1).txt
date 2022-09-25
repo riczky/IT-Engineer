@@ -1,0 +1,18 @@
+pnpa service discovery stop
+Hubungkan Flashdisk(ISO)
+
+copy usb0:c8000be-universalk9.17.04.02.SPA.bin bootflash: (Menggunakan flash disk)
+
+request platform software sdwan software install bootflash:/c8000be-universalk9.17.04.02.SPA.bin
+request platform software sdwan software activate 17.04.02.0.2620
+request platform software sdwan software set-default 17.04.02.0.2620
+request platform software sdwan software upgrade-confirm
+
+
+====Template============
+
+di Log:
+show run
+show sdwan run
+show version
+show sdwan certificate serial
