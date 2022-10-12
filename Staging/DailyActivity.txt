@@ -1,0 +1,46 @@
+Daily Activity
+
+Date             ||   Activity
+16-09-2022	 || Sign Contract
+
+17-09-2022	 || Libur
+18-09-2022	 || Libur
+19-09-2022	 || Stand By (Tukar Laptop)
+20-09-2022	 || Staging (Upgrade n Config)
+(DC-JPMorgan-SD-LA,DC-Aladin-SD-LA)
+21-09-2022	 || Staging (Upgrade n Config)
+(DRC-ChinaConstructionBank-SD-LA, DRC-ChinaConstructionBank-SD-TLK, DC-BTPNSYARIAH-SD-TLK)
+22-09-2022	 || Stand By
+23-09-2022	 || Staging (Upgrade n Config)
+(DC-Aladin-SD-TLK)
+
+24-09-2022	 || Libur
+25-09-2022	 || Libur
+26-09-2022	 || Stand By
+27-09-2022	 || Stand By
+28-09-2022	 || Stand By
+29-09-2022	 || Stand By
+30-09-2022	 || Stand By
+
+01-10-2022	 || Libur
+02-10-2022	 || Libur
+03-10-2022	 || Pickup - Intallasi (Onsite)
+(Pickup-BPDJambi, Sulselbar, Aladin)(6 Unit)
+(Installasi-DC-MUFG)LA	 
+04-10-2022	 || Installasi (Onsite)
+(Installasi-DC-Sulselbar,DC-BPDJambi)(Mounting, Install)LA
+05-10-2022	 || Installasi (Onsite)	
+(Revisit-DC-MUFG,DC-JPMorgan)TLK-LA
+06-10-2022	 || Installasi (Onsite)
+(Revisit-DC-BPDJambi,DC-Sulselbar)TLK-LA
+07-10-2022	 || Installasi (Onsite)
+(Installasi-DRC-BPDJambi,DRC-Sulselbar,DRC-BCBB)TLK-LA
+
+08-10-2022	 || Libur
+09-10-2022	 || Libur
+11-10-2022	 || Installasi (Onsite)
+(Installasi-DRC-BPDMaluku)TLK-LA
+12-10-2022	 || Standby
+13-10-2022	 || Standby
+14-10-2022	 || Standby
+15-10-2022	 || Standby
