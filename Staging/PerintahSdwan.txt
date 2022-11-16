@@ -1,0 +1,18 @@
+Dokumentasi Sdwan
+
+Check OS sdwan yang digunakan
+- show sdwan software
+
+- Reset Pre-config
+request platform software sdwan software reset
+
+- Ping wan (ganti ip)
+ping 172.16.208.177 source gigabitEthernet 0/0/0
+
+- Cek Status Port
+sh ip int brief
+
+- Reset Router
+Router#controller-mode enable
+ntar confirm nya jawab aja "y", waktu ada notif abort jawab aja "no"
+

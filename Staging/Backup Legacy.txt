@@ -1,0 +1,10 @@
+Backup Legacy
+
+show run
+show ip arp
+show cdp neighbors 
+show bgp summary 
+show int description 
+show ip int br
+show version 
+show inventory

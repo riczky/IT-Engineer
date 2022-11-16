@@ -1,0 +1,17 @@
+Migrasi DRC
+
+Router#controller-mode enable
+ntar confirm nya jawab aja "y", waktu ada notif abort jawab aja "no"
+
+pnpa service discovery stop
+
+================Template PreConfig===============
+
+show sdwan certificate serial number
+
+Router#sh int g0/0/0
+
+
+
+
+
